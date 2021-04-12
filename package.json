@@ -1,0 +1,29 @@
+{
+  "name": "nasdaq-halts",
+  "version": "1.0.3",
+  "description": "Node.js module to fetch stock halts from Nasdaq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldpumpkin/nasdaq-halts.git"
+  },
+  "keywords": [
+    "nasdaq",
+    "stock",
+    "halts",
+    "fetch",
+    "rss"
+  ],
+  "author": "coldpumpkin",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/coldpumpkin/nasdaq-halts/issues"
+  },
+  "homepage": "https://github.com/coldpumpkin/nasdaq-halts#readme",
+  "dependencies": {
+    "rss-url-parser": "^2.1.2"
+  }
+}
