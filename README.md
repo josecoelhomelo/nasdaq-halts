@@ -1,5 +1,3 @@
-# nasdaq-halts
-
 Node.js module to fetch stock halts from Nasdaq
 
 # Installation
