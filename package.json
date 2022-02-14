@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coldpumpkin/nasdaq-halts.git"
+    "url": "git+https://github.com/josecoelhomelo/nasdaq-halts.git"
   },
   "keywords": [
     "nasdaq",
@@ -17,12 +17,12 @@
     "fetch",
     "rss"
   ],
-  "author": "coldpumpkin",
+  "author": "josecoelhomelo",
   "license": "GNU",
   "bugs": {
-    "url": "https://github.com/coldpumpkin/nasdaq-halts/issues"
+    "url": "https://github.com/josecoelhomelo/nasdaq-halts/issues"
   },
-  "homepage": "https://github.com/coldpumpkin/nasdaq-halts#readme",
+  "homepage": "https://github.com/josecoelhomelo/nasdaq-halts#readme",
   "dependencies": {
     "rss-url-parser": "^2.1.2"
   }
