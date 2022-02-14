@@ -1,6 +1,6 @@
 {
   "name": "nasdaq-halts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Node.js module to fetch stock halts from Nasdaq",
   "main": "index.js",
   "scripts": {
