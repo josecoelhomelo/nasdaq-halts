@@ -1,8 +1,8 @@
 {
   "name": "nasdaq-halts",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Node.js module to fetch stock halts from Nasdaq",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
