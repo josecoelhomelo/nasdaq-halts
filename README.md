@@ -1,4 +1,4 @@
-Node.js module to fetch stock halts from Nasdaq
+Node.js module to fetch stock halts from Nasdaq.
 
 # Installation
 `npm install nasdaq-halts`
