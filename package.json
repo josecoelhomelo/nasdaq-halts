@@ -1,29 +1,29 @@
 {
-  "name": "nasdaq-halts",
-  "version": "1.0.8",
-  "description": "Node.js module to fetch stock halts from Nasdaq",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/josecoelhomelo/nasdaq-halts.git"
-  },
-  "keywords": [
-    "nasdaq",
-    "stock",
-    "halts",
-    "fetch",
-    "rss"
-  ],
-  "author": "josecoelhomelo",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/josecoelhomelo/nasdaq-halts/issues"
-  },
-  "homepage": "https://github.com/josecoelhomelo/nasdaq-halts#readme",
-  "dependencies": {
-    "rss-url-parser": "^2.1.2"
-  }
+    "name": "nasdaq-halts",
+    "version": "1.0.8",
+    "description": "Node.js module to fetch stock halts from Nasdaq",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/josecoelhomelo/nasdaq-halts.git"
+    },
+    "keywords": [
+        "nasdaq",
+        "stock",
+        "halts",
+        "fetch",
+        "rss"
+    ],
+    "author": "josecoelhomelo",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/josecoelhomelo/nasdaq-halts/issues"
+    },
+    "homepage": "https://github.com/josecoelhomelo/nasdaq-halts#readme",
+    "dependencies": {
+        "rss-url-parser": "^2.1.2"
+    }
 }

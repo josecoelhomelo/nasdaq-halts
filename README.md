@@ -9,7 +9,7 @@ Will output "true" or "false" depending on if an halt is in effect for defined s
 ```js
 const nasdaq = require('nasdaq-halts');
 
-nasdaq.getNasdaqHalts('TSLA').then(response => {
+nasdaq.checkHalt('TSLA').then(response => {
     console.log(response);
 });   
 ```
