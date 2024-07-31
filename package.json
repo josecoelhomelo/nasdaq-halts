@@ -24,6 +24,6 @@
     },
     "homepage": "https://github.com/josecoelhomelo/nasdaq-halts#readme",
     "dependencies": {
-        "rss-url-parser": "^2.2.4"
+        "rss-url-parser": "^3.0.0"
     }
 }
